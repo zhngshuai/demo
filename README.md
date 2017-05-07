@@ -1,8 +1,7 @@
 
 # demo
 
-demo to learn github
-:+1:
+
 # 概述
 ## 编写目的
 这是一个文本内容
